@@ -1,0 +1,36 @@
+# vsim -modelsimini /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini -wlf /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/test_output/lib.tb_cronometro.all_43ac0c0e2d3d9efff6c457556d613f85ab93acc5/modelsim/vsim.wlf -quiet -t ps -onfinish stop lib.tb_cronometro(tb) -L vunit_lib -L lib -g/tb_cronometro/runner_cfg="active python runner : true,enabled_test_cases : ,output path : /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/test_output/lib.tb_cronometro.all_43ac0c0e2d3d9efff6c457556d613f85ab93acc5/,tb path : /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/,use_color : true" 
+# Start time: 15:50:39 on Oct 02,2019
+# ** Warning: Design size of 22357 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_cronometro/mapping/bcd1/u2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 0  Instance: /tb_cronometro/mapping/bcd0/u2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 2  Instance: /tb_cronometro/mapping/bcd1/u2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 0 ps  Iteration: 3  Instance: /tb_cronometro/mapping/bcd0/u2
+# ** Error: Falha em teste: 0
+#    Time: 200 ps  Iteration: 0  Process: /tb_cronometro/main File: /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd
+# Break in Process main at /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd line 57
+# Stopped at /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd line 57
+# 
+# Test Run Failed!
+# 
+# Stack trace result from 'tb' command
+#  /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd 57 return [address 0xf6bff007] Process main
+# 
+# 
+# Surrounding code from 'see' command
+#   52 :     wait for 4 ps;
+#   53 : 		assert(LEDS1 = "1000000" and LEDS2 = "1000000")  report "Falha em teste: 0" severity error;
+#   54 : 
+#   55 : 		-- Teste: 0
+#   56 :     wait until inClock'event and inClock='0';
+# ->57 : 		assert(LEDS1 = "1111001" and LEDS2 = "1000000")  report "Falha em teste: 0" severity error;
+#   58 : 
+#   59 :     wait until inClock'event and inClock='0';
+#   60 :     wait until inClock'event and inClock='0';
+#   61 :     wait until inClock'event and inClock='0';
+# 

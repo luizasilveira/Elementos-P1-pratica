@@ -45,7 +45,20 @@ architecture  rtl OF cronometro IS
       a,b,c,d,e,f,g : out STD_LOGIC );
   end component;
 
+signal carryout0, carryout1: STD_LOGIC;
+signal s0, s1, regOut0, regOut1: STD_LOGIC_VECTOR(3 downto 0);
+
+
 begin
+
+bcd0: BCDAdder port map(regOut0,"0000",carryout1, s0, carryout0);
+bcd1: BCDAdder port map(regOut1,"0000", '1', s1, carryout1);
+R0: Register4 port map(clk, s0, '1', regOut0);
+R1: Register4 port map(clk, s1, '1', regOut1);
+Svn0: sevenSeg port map(regOut0,a1,b1,c1,d1,e1,f1,g1);
+Svn1: sevenSeg port map(regOut1,a2,b2,c2,d2,e2,f2,g2);
+
+
 
 
 end architecture;

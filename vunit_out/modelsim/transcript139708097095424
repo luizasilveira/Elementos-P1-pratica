@@ -1,0 +1,31 @@
+# do /home/borg/.local/lib/python3.6/site-packages/vunit/tcl_read_eval_loop.tcl
+# vsim -modelsimini /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini -wlf /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/test_output/lib.tb_sevenseg.all_410e10e5c811874a9d020109a6e0663fad4fe03d/modelsim/vsim.wlf -quiet -t ps -onfinish stop lib.tb_sevenseg(tb) -L vunit_lib -L lib -g/tb_sevenseg/runner_cfg="active python runner : true,enabled_test_cases : ,output path : /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/test_output/lib.tb_sevenseg.all_410e10e5c811874a9d020109a6e0663fad4fe03d/,tb path : /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/,use_color : true" 
+# Start time: 15:42:14 on Oct 02,2019
+# ** Warning: Design size of 20890 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Error: Falha em teste: 1
+#    Time: 200 ps  Iteration: 0  Process: /tb_sevenseg/main File: /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd
+# Break in Process main at /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd line 35
+# Stopped at /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd line 35
+# 
+# Test Run Failed!
+# 
+# Stack trace result from 'tb' command
+#  /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd 35 return [address 0xf6be4235] Process main
+# 
+# 
+# Surrounding code from 'see' command
+#   30 :   begin
+#   31 :     test_runner_setup(runner, runner_cfg);
+#   32 : 
+#   33 :     h <= "0000";
+#   34 :     wait for 200 ps;
+# ->35 :     assert( leds = "1000000")  report "Falha em teste: 1" severity error;
+#   36 : 
+#   37 :     h <= "0010";
+#   38 :     wait for 200 ps;
+#   39 :     assert( leds = "0100100")  report "Falha em teste: 1" severity error;
+# 
+# End time: 15:42:14 on Oct 02,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 2
