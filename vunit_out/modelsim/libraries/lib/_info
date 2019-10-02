@@ -126,7 +126,7 @@ R20
 R11
 R12
 Ecronometro
-Z21 w1570039619
+Z21 w1570043779
 R2
 R3
 R0
@@ -138,9 +138,9 @@ VHN18A6gRKNXjBGXi_N`2z3
 !s100 32HjF9l:ajcSFPHjIj48O2
 R6
 33
-Z24 !s110 1570041733
+Z24 !s110 1570043871
 !i10b 1
-Z25 !s108 1570041733.000000
+Z25 !s108 1570043871.000000
 Z26 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/cronometroMelhoria.vhd|
 Z27 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/cronometroMelhoria.vhd|
 !i113 1
@@ -149,11 +149,11 @@ R12
 Artl
 R2
 R3
-DEx4 work 10 cronometro 0 22 HN18A6gRKNXjBGXi_N`2z3
+Z28 DEx4 work 10 cronometro 0 22 HN18A6gRKNXjBGXi_N`2z3
 l52
 L22
-VM<5N6kcj?3CMlGkcCGWSF3
-!s100 dDAA=?XAH?;6m]SOKRdIf3
+Vck4Ki3U7NcUIe;`TZMlm_1
+!s100 2?abah_eHZ4:FAiLMmoaB2
 R6
 33
 R24
@@ -166,13 +166,13 @@ R11
 R12
 Edetectgt9
 R1
-Z28 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
-Z29 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z29 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z30 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
 R2
 R3
 R0
-Z30 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/detectGt9.vhd
-Z31 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/detectGt9.vhd
+Z31 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/detectGt9.vhd
+Z32 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/detectGt9.vhd
 l0
 L18
 V_U7Jc=USAT;eW6jW:QfiQ3
@@ -182,14 +182,14 @@ R6
 R7
 !i10b 1
 R8
-Z32 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/detectGt9.vhd|
-Z33 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/detectGt9.vhd|
+Z33 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/detectGt9.vhd|
+Z34 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/detectGt9.vhd|
 !i113 1
 R11
 R12
 Artl
-R28
 R29
+R30
 R2
 R3
 DEx4 work 9 detectgt9 0 22 _U7Jc=USAT;eW6jW:QfiQ3
@@ -202,8 +202,8 @@ R6
 R7
 !i10b 1
 R8
-R32
 R33
+R34
 !i113 1
 R11
 R12
@@ -212,8 +212,8 @@ R1
 R2
 R3
 R0
-Z34 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/FlipFlopD.vhd
-Z35 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/FlipFlopD.vhd
+Z35 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/FlipFlopD.vhd
+Z36 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/FlipFlopD.vhd
 l0
 L8
 Vb>0d0SFJ7I_bZn7^0fNI20
@@ -223,8 +223,8 @@ R6
 R7
 !i10b 1
 R8
-Z36 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/FlipFlopD.vhd|
-Z37 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/FlipFlopD.vhd|
+Z37 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/FlipFlopD.vhd|
+Z38 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/FlipFlopD.vhd|
 !i113 1
 R11
 R12
@@ -241,8 +241,8 @@ R6
 R7
 !i10b 1
 R8
-R36
 R37
+R38
 !i113 1
 R11
 R12
@@ -251,8 +251,8 @@ R1
 R2
 R3
 R0
-Z38 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/FullAdder.vhd
-Z39 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/FullAdder.vhd
+Z39 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/FullAdder.vhd
+Z40 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/FullAdder.vhd
 l0
 L10
 V;RB>US:oiVgf@@2;ERnEW2
@@ -262,8 +262,8 @@ R6
 R7
 !i10b 1
 R8
-Z40 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/FullAdder.vhd|
-Z41 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/FullAdder.vhd|
+Z41 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/FullAdder.vhd|
+Z42 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/FullAdder.vhd|
 !i113 1
 R11
 R12
@@ -280,8 +280,8 @@ R6
 R7
 !i10b 1
 R8
-R40
 R41
+R42
 !i113 1
 R11
 R12
@@ -290,8 +290,8 @@ R1
 R2
 R3
 R0
-Z42 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Mux2Way.vhd
-Z43 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Mux2Way.vhd
+Z43 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Mux2Way.vhd
+Z44 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Mux2Way.vhd
 l0
 L8
 VzzYNcn;4foNeV0zkcd2>Z0
@@ -301,8 +301,8 @@ R6
 R7
 !i10b 1
 R8
-Z44 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Mux2Way.vhd|
-Z45 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Mux2Way.vhd|
+Z45 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Mux2Way.vhd|
+Z46 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Mux2Way.vhd|
 !i113 1
 R11
 R12
@@ -319,8 +319,8 @@ R6
 R7
 !i10b 1
 R8
-R44
 R45
+R46
 !i113 1
 R11
 R12
@@ -329,8 +329,8 @@ R1
 R2
 R3
 R0
-Z46 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/mux4.vhd
-Z47 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/mux4.vhd
+Z47 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/mux4.vhd
+Z48 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/mux4.vhd
 l0
 L4
 VnaFO0]37Nn7]3X;Al?REj0
@@ -340,8 +340,8 @@ R6
 R7
 !i10b 1
 R8
-Z48 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/mux4.vhd|
-Z49 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/mux4.vhd|
+Z49 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/mux4.vhd|
+Z50 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/bcdAdder/mux4.vhd|
 !i113 1
 R11
 R12
@@ -358,29 +358,29 @@ R6
 R7
 !i10b 1
 R8
-R48
 R49
+R50
 !i113 1
 R11
 R12
 Equestao1
-Z50 w1570036761
+Z51 w1570036761
 R2
 R3
 R0
-Z51 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/questao1.vhd
-Z52 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/questao1.vhd
+Z52 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/questao1.vhd
+Z53 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/questao1.vhd
 l0
 L13
 V`S>8Rd;?KTfg`0<6aQcfo0
 !s100 T?1dafm]Hl]YL6l81z4zC3
 R6
 33
-Z53 !s110 1570036794
+Z54 !s110 1570036794
 !i10b 1
-Z54 !s108 1570036794.000000
-Z55 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/questao1.vhd|
-Z56 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/questao1.vhd|
+Z55 !s108 1570036794.000000
+Z56 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/questao1.vhd|
+Z57 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/questao1.vhd|
 !i113 1
 R11
 R12
@@ -394,32 +394,32 @@ V1Z7I<nG19nkgDfgDHU8N_3
 !s100 ZbahbgnRkl7lgjnO5CW]n3
 R6
 33
-R53
-!i10b 1
 R54
+!i10b 1
 R55
 R56
+R57
 !i113 1
 R11
 R12
 Eregister4
-Z57 w1570037629
+Z58 w1570037629
 R2
 R3
 R0
-Z58 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Register4.vhd
-Z59 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Register4.vhd
+Z59 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Register4.vhd
+Z60 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Register4.vhd
 l0
 L8
 VN?[oLI<^JVHEL]d[OTogm1
 !s100 ^CkOO10]z52=M5>7mh3zd0
 R6
 33
-R24
+Z61 !s110 1570041733
 !i10b 1
-R25
-Z60 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Register4.vhd|
-Z61 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Register4.vhd|
+Z62 !s108 1570041733.000000
+Z63 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Register4.vhd|
+Z64 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/register4/Register4.vhd|
 !i113 1
 R11
 R12
@@ -433,32 +433,32 @@ VGldCziU5KzAMK@ehc21[41
 !s100 =mS9eKOn[GzIKDl7O99LV0
 R6
 33
-R24
-!i10b 1
-R25
-R60
 R61
+!i10b 1
+R62
+R63
+R64
 !i113 1
 R11
 R12
 Esevenseg
-Z62 w1570042205
+Z65 w1570042205
 R2
 R3
 R0
-Z63 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/sevenSeg.vhd
-Z64 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/sevenSeg.vhd
+Z66 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/sevenSeg.vhd
+Z67 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/sevenSeg.vhd
 l0
 L13
 VD3DaYH^H5Z=HNkL4MiLc50
 !s100 h7>NP`6a^^kIFAd;_0azi2
 R6
 33
-Z65 !s110 1570042213
+Z68 !s110 1570042213
 !i10b 1
-Z66 !s108 1570042212.000000
-Z67 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/sevenSeg.vhd|
-Z68 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/sevenSeg.vhd|
+Z69 !s108 1570042212.000000
+Z70 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/sevenSeg.vhd|
+Z71 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/src/rtl/sevenSeg.vhd|
 !i113 1
 R11
 R12
@@ -472,73 +472,70 @@ VURZfSaeU?lN>`m_0mf83L2
 !s100 9[zK0o;d5OXD9>;9AzdL^0
 R6
 33
-R65
-!i10b 1
-R66
-R67
 R68
+!i10b 1
+R69
+R70
+R71
 !i113 1
 R11
 R12
 Etb_cronometro
 R1
-Z69 D^#x9 vunit_lib 13 vunit_context 0 22 5PF4h;N3nzRfAo898Q8WS3
-Z70 DPx9 vunit_lib 18 run_deprecated_pkg 0 22 06HHNn=l0Y?PoSLo8^<h00
-Z71 DPx9 vunit_lib 10 runner_pkg 0 22 NQlg?N:7cfzSYD?FX_C9W0
-Z72 DPx9 vunit_lib 7 run_pkg 0 22 ?ilEX`>N>LaongBVTRfDn1
-Z73 DPx9 vunit_lib 13 run_types_pkg 0 22 ]8KoceJmoGz<@LgQaN5R62
-Z74 DPx9 vunit_lib 20 check_deprecated_pkg 0 22 Y>TVz>[kI8XoP@P02gCOJ2
-Z75 DPx9 vunit_lib 9 check_pkg 0 22 k_?TDGU?=n?1Z0oahO>zF0
-Z76 DPx9 vunit_lib 11 checker_pkg 0 22 E?dhhcE;9VWnHLW[lW4`Y1
-Z77 DPx9 vunit_lib 8 stop_pkg 0 22 UjKiHFdPQ97>_>m`nM3cg3
-Z78 DPx9 vunit_lib 8 core_pkg 0 22 0M7EG>QDghVT?B78KOYPn0
-Z79 DPx9 vunit_lib 18 log_deprecated_pkg 0 22 Q7[lfBh_WC:ca^W64YP1U2
-Z80 DPx9 vunit_lib 9 print_pkg 0 22 z3A9G[B4JdMci]Ub;PK=S3
-Z81 DPx9 vunit_lib 4 path 0 22 ]@TR:IFM`TWfiVL<ZjY=I3
-Z82 DPx9 vunit_lib 15 log_handler_pkg 0 22 nl_I;6SFb6@cB[0oB[Gm?1
-Z83 DPx9 vunit_lib 8 ansi_pkg 0 22 h9cG]NHf=IYSX>SV5U_OM1
-Z84 DPx9 vunit_lib 14 log_levels_pkg 0 22 jGUFnEUH1mU?HKm3YRPGj3
-Z85 DPx9 vunit_lib 10 logger_pkg 0 22 Jj3MC9=bR4jQbFA1jSDXY2
-Z86 DPx9 vunit_lib 10 dictionary 0 22 _W8>On_YoEFWEDP8TQC@R0
-Z87 DPx9 vunit_lib 10 string_ops 0 22 >6lVd?dSYVCeeU;1?_=bg2
-Z88 D^#x9 vunit_lib 18 data_types_context 0 22 1?>9FT=3YA15`7IYa:H9b2
-Z89 DPx9 vunit_lib 8 dict_pkg 0 22 ehbf8zR4VgoO:66`0b==c3
-Z90 DPx9 vunit_lib 19 string_ptr_pool_pkg 0 22 I^`873Q>JaL`RoU3I`C2H1
-Z91 DPx9 vunit_lib 14 queue_pool_pkg 0 22 Z[=D0HJacYBCm0dE3aodk1
-Z92 DPx9 vunit_lib 17 integer_array_pkg 0 22 CJcNR>m;3A:?0bl`^YYN^0
-Z93 DPx9 vunit_lib 14 string_ptr_pkg 0 22 BcAU_Z][LeU1aR2CQKdF;1
-Z94 DPx9 vunit_lib 9 queue_pkg 0 22 ;89lc5:Q?7a@<EYe0_F1m0
-Z95 DPx9 vunit_lib 27 integer_vector_ptr_pool_pkg 0 22 >4MC1]6h[egYG8GmK_OaU3
-Z96 DPx9 vunit_lib 17 codec_builder_pkg 0 22 lMzaQB]AGo[9c?7g60J_93
-Z97 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
-Z98 DPx4 ieee 11 numeric_bit 0 22 d<O?S;AIQfOzoHU3FDK]23
-Z99 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
-Z100 DPx4 ieee 12 math_complex 0 22 5i:;_e<WQ2;?b7>BdkGQL0
-Z101 DPx9 vunit_lib 9 codec_pkg 0 22 VE]>YKnj@eiUJ<U1YSEXb3
-Z102 DPx9 vunit_lib 22 integer_vector_ptr_pkg 0 22 KNo?M3?g8Rc_m:IGUMQ<m0
+Z72 D^#x9 vunit_lib 13 vunit_context 0 22 5PF4h;N3nzRfAo898Q8WS3
+Z73 DPx9 vunit_lib 18 run_deprecated_pkg 0 22 06HHNn=l0Y?PoSLo8^<h00
+Z74 DPx9 vunit_lib 10 runner_pkg 0 22 NQlg?N:7cfzSYD?FX_C9W0
+Z75 DPx9 vunit_lib 7 run_pkg 0 22 ?ilEX`>N>LaongBVTRfDn1
+Z76 DPx9 vunit_lib 13 run_types_pkg 0 22 ]8KoceJmoGz<@LgQaN5R62
+Z77 DPx9 vunit_lib 20 check_deprecated_pkg 0 22 Y>TVz>[kI8XoP@P02gCOJ2
+Z78 DPx9 vunit_lib 9 check_pkg 0 22 k_?TDGU?=n?1Z0oahO>zF0
+Z79 DPx9 vunit_lib 11 checker_pkg 0 22 E?dhhcE;9VWnHLW[lW4`Y1
+Z80 DPx9 vunit_lib 8 stop_pkg 0 22 UjKiHFdPQ97>_>m`nM3cg3
+Z81 DPx9 vunit_lib 8 core_pkg 0 22 0M7EG>QDghVT?B78KOYPn0
+Z82 DPx9 vunit_lib 18 log_deprecated_pkg 0 22 Q7[lfBh_WC:ca^W64YP1U2
+Z83 DPx9 vunit_lib 9 print_pkg 0 22 z3A9G[B4JdMci]Ub;PK=S3
+Z84 DPx9 vunit_lib 4 path 0 22 ]@TR:IFM`TWfiVL<ZjY=I3
+Z85 DPx9 vunit_lib 15 log_handler_pkg 0 22 nl_I;6SFb6@cB[0oB[Gm?1
+Z86 DPx9 vunit_lib 8 ansi_pkg 0 22 h9cG]NHf=IYSX>SV5U_OM1
+Z87 DPx9 vunit_lib 14 log_levels_pkg 0 22 jGUFnEUH1mU?HKm3YRPGj3
+Z88 DPx9 vunit_lib 10 logger_pkg 0 22 Jj3MC9=bR4jQbFA1jSDXY2
+Z89 DPx9 vunit_lib 10 dictionary 0 22 _W8>On_YoEFWEDP8TQC@R0
+Z90 DPx9 vunit_lib 10 string_ops 0 22 >6lVd?dSYVCeeU;1?_=bg2
+Z91 D^#x9 vunit_lib 18 data_types_context 0 22 1?>9FT=3YA15`7IYa:H9b2
+Z92 DPx9 vunit_lib 8 dict_pkg 0 22 ehbf8zR4VgoO:66`0b==c3
+Z93 DPx9 vunit_lib 19 string_ptr_pool_pkg 0 22 I^`873Q>JaL`RoU3I`C2H1
+Z94 DPx9 vunit_lib 14 queue_pool_pkg 0 22 Z[=D0HJacYBCm0dE3aodk1
+Z95 DPx9 vunit_lib 17 integer_array_pkg 0 22 CJcNR>m;3A:?0bl`^YYN^0
+Z96 DPx9 vunit_lib 14 string_ptr_pkg 0 22 BcAU_Z][LeU1aR2CQKdF;1
+Z97 DPx9 vunit_lib 9 queue_pkg 0 22 ;89lc5:Q?7a@<EYe0_F1m0
+Z98 DPx9 vunit_lib 27 integer_vector_ptr_pool_pkg 0 22 >4MC1]6h[egYG8GmK_OaU3
+Z99 DPx9 vunit_lib 17 codec_builder_pkg 0 22 lMzaQB]AGo[9c?7g60J_93
+Z100 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z101 DPx4 ieee 11 numeric_bit 0 22 d<O?S;AIQfOzoHU3FDK]23
+Z102 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z103 DPx4 ieee 12 math_complex 0 22 5i:;_e<WQ2;?b7>BdkGQL0
+Z104 DPx9 vunit_lib 9 codec_pkg 0 22 VE]>YKnj@eiUJ<U1YSEXb3
+Z105 DPx9 vunit_lib 22 integer_vector_ptr_pkg 0 22 KNo?M3?g8Rc_m:IGUMQ<m0
 R2
 R3
 R0
-Z103 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd
-Z104 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd
+Z106 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd
+Z107 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd
 l0
 L12
 V4@6KdA:4>SP3341R;S^_H0
 !s100 OCCi1bkb1>`Zb2bm58S5g2
 R6
 33
-Z105 !s110 1570042238
+Z108 !s110 1570042238
 !i10b 1
-Z106 !s108 1570042238.000000
-Z107 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd|
-Z108 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd|
+Z109 !s108 1570042238.000000
+Z110 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd|
+Z111 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd|
 !i113 1
 R11
 R12
 Atb
-R69
-R70
-R71
 R72
 R73
 R74
@@ -570,6 +567,9 @@ R99
 R100
 R101
 R102
+R103
+R104
+R105
 R2
 R3
 DEx4 work 13 tb_cronometro 0 22 4@6KdA:4>SP3341R;S^_H0
@@ -579,19 +579,16 @@ V?Akm83Le>OK2Ak:kZW`mB2
 !s100 A@FYZO::C2n3NL:8c_zln2
 R6
 33
-R105
-!i10b 1
-R106
-R107
 R108
+!i10b 1
+R109
+R110
+R111
 !i113 1
 R11
 R12
 Etb_questao1
 R1
-R69
-R70
-R71
 R72
 R73
 R74
@@ -623,29 +620,29 @@ R99
 R100
 R101
 R102
+R103
+R104
+R105
 R2
 R3
 R0
-Z109 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_questao1.vhd
-Z110 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_questao1.vhd
+Z112 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_questao1.vhd
+Z113 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_questao1.vhd
 l0
 L7
 V;aYKIEJQ<hI4c@ca29NhY2
 !s100 `];i4]Q@Mi[664KL5SYb53
 R6
 33
-Z111 !s110 1570036372
+Z114 !s110 1570036372
 !i10b 1
-Z112 !s108 1570036372.000000
-Z113 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_questao1.vhd|
-Z114 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_questao1.vhd|
+Z115 !s108 1570036372.000000
+Z116 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_questao1.vhd|
+Z117 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_questao1.vhd|
 !i113 1
 R11
 R12
 Atb
-R69
-R70
-R71
 R72
 R73
 R74
@@ -677,6 +674,9 @@ R99
 R100
 R101
 R102
+R103
+R104
+R105
 R2
 R3
 DEx4 work 11 tb_questao1 0 22 ;aYKIEJQ<hI4c@ca29NhY2
@@ -686,19 +686,16 @@ Vdn]f<37EPUalTe`h1WF_o3
 !s100 :Xf1]meP5EJA0M:BZ`z672
 R6
 33
-R111
-!i10b 1
-R112
-R113
 R114
+!i10b 1
+R115
+R116
+R117
 !i113 1
 R11
 R12
 Etb_register4
 R1
-R69
-R70
-R71
 R72
 R73
 R74
@@ -730,29 +727,29 @@ R99
 R100
 R101
 R102
+R103
+R104
+R105
 R2
 R3
 R0
-Z115 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_Register4.vhd
-Z116 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_Register4.vhd
+Z118 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_Register4.vhd
+Z119 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_Register4.vhd
 l0
 L12
 VC;OKG:UD1EY?f9N8KnIOW2
 !s100 =CTkiLD6JKoQAhneN7H_C0
 R6
 33
-R24
+R61
 !i10b 1
-R25
-Z117 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_Register4.vhd|
-Z118 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_Register4.vhd|
+R62
+Z120 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_Register4.vhd|
+Z121 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_Register4.vhd|
 !i113 1
 R11
 R12
 Atb
-R69
-R70
-R71
 R72
 R73
 R74
@@ -784,6 +781,9 @@ R99
 R100
 R101
 R102
+R103
+R104
+R105
 R2
 R3
 DEx4 work 12 tb_register4 0 22 C;OKG:UD1EY?f9N8KnIOW2
@@ -793,19 +793,16 @@ V5[57]bkPkA4>HTc>9InfR0
 !s100 WV^Noi<2[SCKz9@Wb=Z?<2
 R6
 33
-R24
+R61
 !i10b 1
-R25
-R117
-R118
+R62
+R120
+R121
 !i113 1
 R11
 R12
 Etb_sevenseg
 R1
-R69
-R70
-R71
 R72
 R73
 R74
@@ -837,29 +834,29 @@ R99
 R100
 R101
 R102
+R103
+R104
+R105
 R2
 R3
 R0
-Z119 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd
-Z120 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd
+Z122 8/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd
+Z123 F/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd
 l0
 L7
 VAAQCMd;?>PfO4GC?ZZC?G1
 !s100 ;`bLe^YL0NFSNM:?2noi03
 R6
 33
-R24
+R61
 !i10b 1
-R25
-Z121 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd|
-Z122 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd|
+R62
+Z124 !s90 -quiet|-modelsimini|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd|
+Z125 !s107 /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_sevenSeg.vhd|
 !i113 1
 R11
 R12
 Atb
-R69
-R70
-R71
 R72
 R73
 R74
@@ -891,6 +888,9 @@ R99
 R100
 R101
 R102
+R103
+R104
+R105
 R2
 R3
 DEx4 work 11 tb_sevenseg 0 22 AAQCMd;?>PfO4GC?ZZC?G1
@@ -900,11 +900,11 @@ Vj17g9Y2Ednh8XQP=o42RK0
 !s100 bUOemYk5J_cOn@:ef_;`L1
 R6
 33
-R24
+R61
 !i10b 1
-R25
-R121
-R122
+R62
+R124
+R125
 !i113 1
 R11
 R12

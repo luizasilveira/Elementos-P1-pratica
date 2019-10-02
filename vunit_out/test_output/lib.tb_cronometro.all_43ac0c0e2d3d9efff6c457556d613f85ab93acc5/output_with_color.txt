@@ -1,6 +1,6 @@
 # vsim -modelsimini /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/modelsim/modelsim.ini -wlf /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/test_output/lib.tb_cronometro.all_43ac0c0e2d3d9efff6c457556d613f85ab93acc5/modelsim/vsim.wlf -quiet -t ps -onfinish stop lib.tb_cronometro(tb) -L vunit_lib -L lib -g/tb_cronometro/runner_cfg="active python runner : true,enabled_test_cases : ,output path : /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/vunit_out/test_output/lib.tb_cronometro.all_43ac0c0e2d3d9efff6c457556d613f85ab93acc5/,tb path : /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/,use_color : true" 
-# Start time: 15:50:39 on Oct 02,2019
-# ** Warning: Design size of 22357 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Start time: 16:17:52 on Oct 02,2019
+# ** Warning: Design size of 22349 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
 # Expect performance to be adversely affected.
 # ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
@@ -11,6 +11,10 @@
 #    Time: 0 ps  Iteration: 2  Instance: /tb_cronometro/mapping/bcd1/u2
 # ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
 #    Time: 0 ps  Iteration: 3  Instance: /tb_cronometro/mapping/bcd0/u2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 100 ps  Iteration: 3  Instance: /tb_cronometro/mapping/bcd1/u2
+# ** Warning: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+#    Time: 100 ps  Iteration: 4  Instance: /tb_cronometro/mapping/bcd1/u2
 # ** Error: Falha em teste: 0
 #    Time: 200 ps  Iteration: 0  Process: /tb_cronometro/main File: /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd
 # Break in Process main at /home/borg/Repositorios/4Semestre/Elementos-P1-pratica/tests/tst/tb_cronometro.vhd line 57
